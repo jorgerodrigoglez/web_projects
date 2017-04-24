@@ -1,0 +1,19 @@
+clear{
+  "name": "digital-projects",
+  "version": "1.0.0",
+  "description": "proyecto web para mostrar proyectos talleres y recursos digitales",
+  "main": "package.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgerodrigoglez/web_projects.git"
+  },
+  "author": "Jorge Rodrigo González",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jorgerodrigoglez/web_projects/issues"
+  },
+  "homepage": "https://github.com/jorgerodrigoglez/web_projects#readme"
+}
