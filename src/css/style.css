@@ -1,9 +1,9 @@
 html {
   font-family: sans-serif;
   font-size: 16px;
-  background-color: #1F3E79; }
+  background-color: #FFF; }
 
 a {
-  color: #FDD624; }
+  color: #000; }
   a:hover {
-    color: #1F3E79; }
+    color: #FFF; }
