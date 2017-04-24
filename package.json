@@ -1,4 +1,4 @@
-clear{
+{
   "name": "digital-projects",
   "version": "1.0.0",
   "description": "proyecto web para mostrar proyectos talleres y recursos digitales",
@@ -15,5 +15,31 @@ clear{
   "bugs": {
     "url": "https://github.com/jorgerodrigoglez/web_projects/issues"
   },
-  "homepage": "https://github.com/jorgerodrigoglez/web_projects#readme"
+  "homepage": "https://github.com/jorgerodrigoglez/web_projects#readme",
+  "devDependencies": {
+    "autoprefixer": "^6.7.7",
+    "babel-cli": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "browser-sync": "^2.18.8",
+    "buildify": "^0.4.0",
+    "copy": "^0.3.0",
+    "html-minifier": "^3.4.3",
+    "imagemin": "^5.2.2",
+    "imagemin-cli": "^3.0.0",
+    "imagemin-gifsicle": "^5.1.0",
+    "imagemin-jpeg-recompress": "^5.1.0",
+    "imagemin-pngquant": "^5.0.0",
+    "imagemin-svgo": "^5.2.1",
+    "imagemin-webp": "^4.0.0",
+    "mkdirp": "^0.5.1",
+    "node-sass": "^4.5.2",
+    "parallelshell": "^2.0.0",
+    "postcss-cli": "^3.2.0",
+    "pug": "^2.0.0-beta.12",
+    "pug-cli": "^1.0.0-alpha6",
+    "rimraf": "^2.6.1",
+    "uncss": "^0.14.1",
+    "useref": "^1.2.0",
+    "useref-cli": "^1.0.0"
+  }
 }
