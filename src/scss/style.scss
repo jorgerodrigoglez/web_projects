@@ -7,8 +7,25 @@ html {
 }
 
 a {
-	color: $yellow;
+	color: #FFF;
 	&:hover {
-		color: $blue-dark;
+		color: $blue-light;
 	}
+}
+
+li {
+    background-color: $blue-light;
+}
+
+h1{
+    background-color: #fff;
+}
+
+.pulse{
+    background-color: #fff;
+}
+
+h2{
+    color: #fff;
+    background-color: #000;
 }

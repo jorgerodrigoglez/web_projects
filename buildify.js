@@ -6,8 +6,7 @@ const  buildify = require('buildify'),
 		'./src/js/dividir.js',
 		'./src/js/script.js',
 	],
-	filesCSS = [
-		'./dist/css/local_styles.css',
+	filesCSS = [		
 		'./dist/css/style.css',		
 	];
 

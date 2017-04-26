@@ -1,9 +1,22 @@
 html {
   font-family: sans-serif;
   font-size: 16px;
-  background-color: #FFF; }
+  background-color: #234cde; }
 
 a {
-  color: #000; }
+  color: #FFF; }
   a:hover {
-    color: #FFF; }
+    color: #2291D0; }
+
+li {
+  background-color: #2291D0; }
+
+h1 {
+  background-color: #fff; }
+
+.pulse {
+  background-color: #fff; }
+
+h2 {
+  color: #fff;
+  background-color: #000; }
